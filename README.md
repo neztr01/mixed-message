@@ -11,7 +11,7 @@
 - Any OS
 - Node.js installed
 
-## Feauteres
+## Features
 
 - Auto generate a quote when script run
 - Generate a different quote each time
