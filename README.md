@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://w7.pngwing.com/pngs/270/91/png-transparent-yoda-star-wars-logo-star-wars-logo-text-logo-war.png" alt="Star Wars Logo">
+  <img src="./images/star-wars-logo-983.png" alt="Star Wars Logo">
 </p>
 
 <p align="center">
-    # Mixed Message Star Wars Edition v1.0
+    #Mixed Message Star Wars Edition v1.0
 </p>
 
 ## System requirements
