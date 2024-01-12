@@ -27,3 +27,19 @@ const movieEpisode = [
   "Episode VI: Return Of The Jedi",
   "Episode II: Attack Of The Clones",
 ];
+
+// Adding functionality
+
+// get a random index for the quote
+const quoteIndex = Math.floor(Math.random() * quotes.length);
+
+// get a random index for authors
+const authorIndex = Math.floor(Math.random() * authors.length);
+
+// get a random index for movieEpisode
+const movieIndex = Math.floor(Math.random() * movieEpisode.length);
+
+// log to the console all together
+console.log(
+  `${quotes[quoteIndex]} - ${authors[authorIndex]} at Star Wars ${movieEpisode[movieIndex]}`
+);
